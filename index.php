@@ -43,7 +43,7 @@
             padding: 10px;
             border-radius: 10px;
             text-decoration: none;
-            transform: translateX(720px);
+            transform: translateX(700px);
 
         }
         .head_section{
